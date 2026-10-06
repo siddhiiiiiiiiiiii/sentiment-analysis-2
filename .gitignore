@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Data and outputs (keep large datasets out of GitHub)
+*.csv
+outputs/
+
+# Editor / OS
+.vscode/
+.DS_Store
+.ipynb_checkpoints/
+
+# Live-feed warehouse
+*.db
